@@ -1,7 +1,4 @@
-## Hi there 👋
-
 ## Connect with me
-
 <p>
   <a href="https://instagram.com/vannducs" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="55"/>
@@ -10,7 +7,7 @@
 
   <a href="https://bsky.app/profile/vannducs.bsky.social" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/065/386/844/non_2x/bluesky-circle-logo-icon-bluesky-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png"
-         width="55"/>
+         width="80"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
