@@ -6,8 +6,9 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://bsky.app/profile/vannducs.bsky.social" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/065/386/844/non_2x/bluesky-circle-logo-icon-bluesky-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png"
-         width="80"/>
+    <img src="https://img.freepik.com/vector-cao-cap/logo-vector-nen-tang-truyen-thong-xa-hoi-bluesky_34480-1612.jpg"
+         width="55"
+         style="border-radius:50%;"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
